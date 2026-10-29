@@ -1,0 +1,16 @@
+{
+  "name": "getcheapgames",
+  "displayName": "getcheapgames",
+  "version": "1.0.0",
+  "description": "Find the cheapest legit key for any PC or console game across official stores and key marketplaces in 40 markets, the best-rated games under a budget, free-to-play picks, and getcheapgames' deals, buying guides and news.",
+  "author": {
+    "name": "getcheapgames",
+    "email": "hello@getcheapgames.com",
+    "url": "https://getcheapgames.com"
+  },
+  "homepage": "https://getcheapgames.com",
+  "repository": "https://github.com/getcheapgames/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["games", "game keys", "deals", "price comparison", "steam", "free to play", "xbox", "playstation", "switch", "mcp"],
+  "logo": "assets/logo.svg"
+}
